@@ -46,7 +46,3 @@ Regime transitions align closely with major macro-financial events such as the C
 Regime-based strategies outperform unconditional buy-and-hold on a risk-adjusted basis.
 The Q-learning approach yields a smoother allocation policy than static thresholds, capturing nonlinear boundaries between optimism and caution.
 
-📚 References
-Hamilton, J.D. (1989). A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle. Econometrica.
-Kim, C. (1994). Dynamic Linear Models with Markov Switching. Journal of Econometrics.
-Rabiner, L. (1989). A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition. Proceedings of the IEEE.
